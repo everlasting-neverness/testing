@@ -1,0 +1,14 @@
+{
+  "name": "introduction-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
